@@ -7,7 +7,7 @@ class TicTacToe
     board=new char[3][3];
     initBoard();
   }
-//initially bosrd shouls have spaces everywhere after that it will be replaced with x or o
+//initially board should have spaces everywhere after that it will be replaced with x or o
  
   void initBoard()
   {
